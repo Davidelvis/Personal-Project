@@ -1,2 +1,2 @@
 # First-project
-Practice project: Detecting fake news.
+Practice project: Covid-19 Data analysis
